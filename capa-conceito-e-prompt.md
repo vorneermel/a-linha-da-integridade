@@ -1,0 +1,10 @@
+# Capa conceitual v1
+
+Gerada em 14/10/2026 com ferramenta integrada image_gen. Arquivo: capa-conceitual-v1.png. Capa frontal conceitual; não inclui lombada ou contracapa técnica. Nome de autoria não informado, portanto omitido.
+
+Conceito: Rita em dupla exposição com a torre de vidro, circuitos neurais e linha turquesa rompendo a prisão geométrica. Azul profundo, prata e luz quente para representar recuperação de autonomia. Título conferido visualmente: A LINHA DA INTEGRIDADE. Imagem vertical, sem corte aparente do título. Tipografia integrada ao bitmap; preparar versão com texto editável antes do fechamento técnico.
+
+## Prompt final utilizado
+
+Use case: stylized-concept. Asset type: polished front book cover, vertical portrait 2:3, flat artwork filling canvas, no book mockup. Create a beautiful sophisticated Portuguese tech thriller cover for the novel A Linha da Integridade. Story: Rita Cardoso is the scientist whose neural algorithm is stolen by charismatic Fernando Ariel; her hidden biometric integrity line restores autonomy and exposes him. Visual: evocative cinematic double exposure of a thoughtful adult woman scientist in profile, rendered with elegant photographic realism and subtle fine grain, her face partly resolving into a dark glass skyscraper and delicate neural circuitry; one precise luminous turquoise line cuts through the circuitry, breaking an enclosing geometric cage. Small warm ivory light suggests self-possession and liberation. Restrained midnight navy, petrol teal, silver and a tiny amber accent. Strong negative space, literary premium art direction, mysterious human psychology, striking readable thumbnail. No generic robot, no gun, no crowded hacker screens, no extra characters. Typography: exceptionally clean elegant bold condensed sans serif with careful tracking, large title in upper half, balanced across lines. Exact sole text: 'A LINHA DA' on first title line and 'INTEGRIDADE' on second title line. INTEGRIDADE must fit entirely with generous margins. No author name, subtitle, tagline, logo, barcode or invented endorsement. This is a conceptual front cover, no spine or back.
+
